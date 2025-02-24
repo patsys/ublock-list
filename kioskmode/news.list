@@ -13,8 +13,10 @@ www.heise.de##.sitemap-group__header
 www.heise.de##div > :has(.nav-bottom)
 
 www.golem.de###footer
-www.golem.de###header
+www.golem.de##.header-wrapper
 www.golem.de##.media-wrap > .social-tools
+www.golem.de###tusplit1
+www.golem.de##.promos
 www.golem.de###job-market
 www.golem.de###simanars
 www.golem.de##.fadetags.tapictags
