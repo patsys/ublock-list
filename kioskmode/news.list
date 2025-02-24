@@ -12,8 +12,8 @@ www.heise.de##.ad-mobile-group-3
 www.heise.de##.theme-heiseplus
 www.heise.de##.sitemap-group__header
 www.heise.de##div > :has(.nav-bottom)
-www.heise.de##.pvc-widget
-www.heise.de||api.heise.de/svc/pvg-widget/v1/widget/render
+www.heise.de##.pvg-widget
+||api.heise.de/svc/pvg-widget/v1/widget/render$subdocument
 
 www.golem.de###footer
 www.golem.de##.header-wrapper
